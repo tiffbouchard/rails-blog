@@ -1,24 +1,16 @@
-# README
+Rails blog 🥴
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+just to get familiar with ruby on rails
 
-Things you may want to cover:
+ruby version: `ruby 2.7.2`
+extra dependencies:
+`gem 'better_errors', '~> 2.9', '>= 2.9.1'`
+`gem 'guard', '~> 2.16', '>= 2.16.2'`
+`gem 'guard-livereload', '~> 2.5', '>= 2.5.2'`
+`gem 'bulma-rails', '~> 0.9.1'`
+`gem 'simple_form', '~> 5.0', '>= 5.0.3'`
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+to start:
+`bundle`
+`rails db:migrate`
+`rails s`
