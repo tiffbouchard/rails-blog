@@ -21,3 +21,9 @@ to start:
 `rails db:migrate`
 
 `rails s`
+
+next up:
+- authentication
+- pages
+- filters
+- pagination
